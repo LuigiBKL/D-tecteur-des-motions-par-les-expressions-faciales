@@ -5,4 +5,4 @@ Contexte du projet Les expressions du visage peuvent naturellement servirent à 
 
 ![image](1.png)
 
-![image](2.png)
+![image](3.png)
